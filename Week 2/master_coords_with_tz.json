@@ -1,0 +1,852 @@
+{
+    "Agnew": {
+        "lat": "38.2126070",
+        "lon": "-81.1428842",
+        "timezone": "America/New_York"
+    },
+    "Cory": {
+        "lat": "39.3822623",
+        "lon": "-87.2058491",
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    "Renaissance": {
+        "lat": "40.7608096",
+        "lon": "-73.9695831",
+        "timezone": "America/New_York"
+    },
+    "Midtown": {
+        "lat": "40.7551169",
+        "lon": "-73.9847800",
+        "timezone": "America/New_York"
+    },
+    "Bryson City": {
+        "lat": "35.4309291",
+        "lon": "-83.4473810",
+        "timezone": "America/New_York"
+    },
+    "Apex": {
+        "lat": "35.7325352",
+        "lon": "-78.8505516",
+        "timezone": "America/New_York"
+    },
+    "Cary": {
+        "lat": "35.7882893",
+        "lon": "-78.7812081",
+        "timezone": "America/New_York"
+    },
+    "Durham": {
+        "lat": "54.6666670",
+        "lon": "-1.7500000",
+        "timezone": "Europe/London"
+    },
+    "Chalmette": {
+        "lat": "29.9427892",
+        "lon": "-89.9629372",
+        "timezone": "America/Chicago"
+    },
+    "Washington": {
+        "lat": "38.8950368",
+        "lon": "-77.0365427",
+        "timezone": "America/New_York"
+    },
+    "Whitebridge": {
+        "lat": "57.2041853",
+        "lon": "-4.5025827",
+        "timezone": "Europe/London"
+    },
+    "South Congress": {
+        "lat": "30.2385208",
+        "lon": "-97.7504602",
+        "timezone": "America/Chicago"
+    },
+    "Winston Salem": {
+        "lat": "36.0998131",
+        "lon": "-80.2440518",
+        "timezone": "America/New_York"
+    },
+    "Banner Elk": {
+        "lat": "36.1633342",
+        "lon": "-81.8719013",
+        "timezone": "America/New_York"
+    },
+    "Boone": {
+        "lat": "42.3212460",
+        "lon": "-88.8235511",
+        "timezone": "America/Chicago"
+    },
+    "Elk Park": {
+        "lat": "36.1574315",
+        "lon": "-81.9802767",
+        "timezone": "America/New_York"
+    },
+    "Morrisville": {
+        "lat": "35.8243410",
+        "lon": "-78.8300321",
+        "timezone": "America/New_York"
+    },
+    "Downtown": {
+        "lat": "34.0479960",
+        "lon": "-118.2521002",
+        "timezone": "America/Los_Angeles"
+    },
+    "Redmond": {
+        "lat": "47.6694141",
+        "lon": "-122.1238767",
+        "timezone": "America/Los_Angeles"
+    },
+    "El Cerrito": {
+        "lat": "37.9154056",
+        "lon": "-122.3014110",
+        "timezone": "America/Los_Angeles"
+    },
+    "Emeryville": {
+        "lat": "37.8314089",
+        "lon": "-122.2865266",
+        "timezone": "America/Los_Angeles"
+    },
+    "Menlo Park": {
+        "lat": "37.4519671",
+        "lon": "-122.1779920",
+        "timezone": "America/Los_Angeles"
+    },
+    "Mountain View": {
+        "lat": "37.3893889",
+        "lon": "-122.0832101",
+        "timezone": "America/Los_Angeles"
+    },
+    "Oakland": {
+        "lat": "37.8044557",
+        "lon": "-122.2713560",
+        "timezone": "America/Los_Angeles"
+    },
+    "San Francisco": {
+        "lat": "37.7879363",
+        "lon": "-122.4075201",
+        "timezone": "America/Los_Angeles"
+    },
+    "Santa Clara": {
+        "lat": "37.3541132",
+        "lon": "-121.9551740",
+        "timezone": "America/Los_Angeles"
+    },
+    "Newland": {
+        "lat": "36.0873484",
+        "lon": "-81.9273363",
+        "timezone": "America/New_York"
+    },
+    "Sharpstown": {
+        "lat": "39.1364991",
+        "lon": "-76.2185640",
+        "timezone": "America/New_York"
+    },
+    "Almond": {
+        "lat": "42.3222916",
+        "lon": "-77.7383270",
+        "timezone": "America/New_York"
+    },
+    "Topton": {
+        "lat": "40.5034284",
+        "lon": "-75.7013027",
+        "timezone": "America/New_York"
+    },
+    "Edgehill Farms": {
+        "lat": "51.0083082",
+        "lon": "-3.3877174",
+        "timezone": "Europe/London"
+    },
+    "CBD": {
+        "lat": "-33.8747234",
+        "lon": "151.2053644",
+        "timezone": "Australia/Sydney"
+    },
+    "Mcvan": {
+        "lat": "47.4503928",
+        "lon": "-122.2897523",
+        "timezone": "America/Los_Angeles"
+    },
+    "University District": {
+        "lat": "47.6612984",
+        "lon": "-122.3131523",
+        "timezone": "America/Los_Angeles"
+    },
+    "Chapel Hill": {
+        "lat": "35.9131542",
+        "lon": "-79.0557800",
+        "timezone": "America/New_York"
+    },
+    "Eagle Rock": {
+        "lat": "34.1390325",
+        "lon": "-118.2140958",
+        "timezone": "America/Los_Angeles"
+    },
+    "Florence": {
+        "lat": "43.7697955",
+        "lon": "11.2556404",
+        "timezone": "Europe/Rome"
+    },
+    "Fuquay-Varina": {
+        "lat": "35.5843849",
+        "lon": "-78.7998691",
+        "timezone": "America/New_York"
+    },
+    "Holly Springs": {
+        "lat": "35.6512655",
+        "lon": "-78.8336218",
+        "timezone": "America/New_York"
+    },
+    "Mebane": {
+        "lat": "36.0959715",
+        "lon": "-79.2669619",
+        "timezone": "America/New_York"
+    },
+    "Raleigh": {
+        "lat": "35.7803977",
+        "lon": "-78.6390989",
+        "timezone": "America/New_York"
+    },
+    "Wake Forest": {
+        "lat": "35.9803138",
+        "lon": "-78.5103731",
+        "timezone": "America/New_York"
+    },
+    "Pontchartrain Beach": {
+        "lat": "30.0318374",
+        "lon": "-90.0622941",
+        "timezone": "America/Chicago"
+    },
+    "St Thomas": {
+        "lat": "18.3429082",
+        "lon": "-64.9188997",
+        "timezone": "America/St_Thomas"
+    },
+    "Meredith": {
+        "lat": "43.6567546",
+        "lon": "-71.5011718",
+        "timezone": "America/New_York"
+    },
+    "Central": {
+        "lat": "14.6446934",
+        "lon": "121.0504257",
+        "timezone": "Asia/Manila"
+    },
+    "College Avenue": {
+        "lat": "41.8683433",
+        "lon": "-88.0902952",
+        "timezone": "America/Chicago"
+    },
+    "Southside": {
+        "lat": "55.9428918",
+        "lon": "-3.1828977",
+        "timezone": "Europe/London"
+    },
+    "West Berkeley": {
+        "lat": "37.8689508",
+        "lon": "-122.2968266",
+        "timezone": "America/Los_Angeles"
+    },
+    "New Orleans": {
+        "lat": "29.9561422",
+        "lon": "-90.0733934",
+        "timezone": "America/Chicago"
+    },
+    "Chessington": {
+        "lat": "51.3583360",
+        "lon": "-0.2986216",
+        "timezone": "Europe/London"
+    },
+    "Colombo": {
+        "lat": "6.9388614",
+        "lon": "79.8542005",
+        "timezone": "Asia/Colombo"
+    },
+    "Unknown Location": {
+        "lat": "31.9370250",
+        "lon": "-81.1545654",
+        "timezone": "America/New_York"
+    },
+    "The Drag": {
+        "lat": "30.2890795",
+        "lon": "-97.7418997",
+        "timezone": "America/Chicago"
+    },
+    "West University": {
+        "lat": "32.2322040",
+        "lon": "-110.9635930",
+        "timezone": "America/Phoenix"
+    },
+    "Covington": {
+        "lat": "39.0831712",
+        "lon": "-84.5107548",
+        "timezone": "America/New_York"
+    },
+    "North Austin": {
+        "lat": "29.5384107",
+        "lon": "-95.1219096",
+        "timezone": "America/Chicago"
+    },
+    "Kissimmee": {
+        "lat": "28.2918995",
+        "lon": "-81.4075838",
+        "timezone": "America/New_York"
+    },
+    "Fayetteville Street": {
+        "lat": "35.7571728",
+        "lon": "-78.6407894",
+        "timezone": "America/New_York"
+    },
+    "Congress Ave District": {
+        "lat": "30.2641536",
+        "lon": "-97.7442722",
+        "timezone": "America/Chicago"
+    },
+    "Gulfton": {
+        "lat": "29.7164204",
+        "lon": "-95.4849029",
+        "timezone": "America/Chicago"
+    },
+    "NOMA": {
+        "lat": "64.4975098",
+        "lon": "-165.4061701",
+        "timezone": "America/Nome"
+    },
+    "Red River District": {
+        "lat": "-40.3434627",
+        "lon": "176.3659219",
+        "timezone": "Pacific/Auckland"
+    },
+    "South": {
+        "lat": "18.2612839",
+        "lon": "-73.8444985",
+        "timezone": "America/Port-au-Prince"
+    },
+    "Jackson Heights": {
+        "lat": "40.7556561",
+        "lon": "-73.8857755",
+        "timezone": "America/New_York"
+    },
+    "Farmington Woods": {
+        "lat": "35.7402056",
+        "lon": "-78.6015424",
+        "timezone": "America/New_York"
+    },
+    "Heritage Pines": {
+        "lat": "40.7906135",
+        "lon": "-96.6344227",
+        "timezone": "America/Chicago"
+    },
+    "Berkeley": {
+        "lat": "37.8708393",
+        "lon": "-122.2728630",
+        "timezone": "America/Los_Angeles"
+    },
+    "San Jose": {
+        "lat": "37.3361663",
+        "lon": "-121.8905910",
+        "timezone": "America/Los_Angeles"
+    },
+    "Storyville": {
+        "lat": "29.9584869",
+        "lon": "-90.0729504",
+        "timezone": "America/Chicago"
+    },
+    "Tribeca": {
+        "lat": "40.7153802",
+        "lon": "-74.0093063",
+        "timezone": "America/New_York"
+    },
+    "Ridgeland": {
+        "lat": "32.4284761",
+        "lon": "-90.1323087",
+        "timezone": "America/Chicago"
+    },
+    "Fort Pierce": {
+        "lat": "27.4467056",
+        "lon": "-80.3256056",
+        "timezone": "America/New_York"
+    },
+    "Houston": {
+        "lat": "29.7589382",
+        "lon": "-95.3676974",
+        "timezone": "America/Chicago"
+    },
+    "Port Bolivar": {
+        "lat": "29.3799791",
+        "lon": "-94.7645679",
+        "timezone": "America/Chicago"
+    },
+    "Katunayake": {
+        "lat": "7.1567730",
+        "lon": "79.8716676",
+        "timezone": "Asia/Colombo"
+    },
+    "Seaport": {
+        "lat": "42.3462652",
+        "lon": "-71.0421584",
+        "timezone": "America/New_York"
+    },
+    "Meredith Townes": {
+        "lat": "35.8229941",
+        "lon": "-78.6906938",
+        "timezone": "America/New_York"
+    },
+    "Westpark Place": {
+        "lat": "35.0613024",
+        "lon": "-79.0524850",
+        "timezone": "America/New_York"
+    },
+    "Hudson Square": {
+        "lat": "-35.2015481",
+        "lon": "149.1498326",
+        "timezone": "Australia/Sydney"
+    },
+    "Old City": {
+        "lat": "46.9482888",
+        "lon": "7.4512729",
+        "timezone": "Europe/Zurich"
+    },
+    "Galveston": {
+        "lat": "29.3872254",
+        "lon": "-94.9927360",
+        "timezone": "America/Chicago"
+    },
+    "Katy": {
+        "lat": "29.7857853",
+        "lon": "-95.8243956",
+        "timezone": "America/Chicago"
+    },
+    "Sugar Land": {
+        "lat": "29.6196787",
+        "lon": "-95.6349463",
+        "timezone": "America/Chicago"
+    },
+    "Lower Manhattan": {
+        "lat": "40.7135482",
+        "lon": "-74.0054261",
+        "timezone": "America/New_York"
+    },
+    "Huntington Woods": {
+        "lat": "42.4805913",
+        "lon": "-83.1668713",
+        "timezone": "America/Detroit"
+    },
+    "Gampaha": {
+        "lat": "7.1190248",
+        "lon": "79.9159876",
+        "timezone": "Asia/Colombo"
+    },
+    "Sunnyside": {
+        "lat": "46.3246419",
+        "lon": "-120.0081898",
+        "timezone": "America/Los_Angeles"
+    },
+    "Islamabad": {
+        "lat": "33.6938118",
+        "lon": "73.0651511",
+        "timezone": "Asia/Karachi"
+    },
+    "Rawalpindi": {
+        "lat": "33.6037053",
+        "lon": "73.0483132",
+        "timezone": "Asia/Karachi"
+    },
+    "Couples Glen": {
+        "lat": "35.0099423",
+        "lon": "-80.6778305",
+        "timezone": "America/New_York"
+    },
+    "East Elmhurst": {
+        "lat": "40.7612123",
+        "lon": "-73.8651358",
+        "timezone": "America/New_York"
+    },
+    "Daytona Beach": {
+        "lat": "29.2108147",
+        "lon": "-81.0228331",
+        "timezone": "America/New_York"
+    },
+    "Latta": {
+        "lat": "34.3371047",
+        "lon": "-79.4311616",
+        "timezone": "America/New_York"
+    },
+    "Long Island City": {
+        "lat": "40.7455316",
+        "lon": "-73.9484995",
+        "timezone": "America/New_York"
+    },
+    "New York": {
+        "lat": "40.7127281",
+        "lon": "-74.0060152",
+        "timezone": "America/New_York"
+    },
+    "Eagan Park": {
+        "lat": "44.8604098",
+        "lon": "-93.1922116",
+        "timezone": "America/Chicago"
+    },
+    "Jamestown Court": {
+        "lat": "33.6362211",
+        "lon": "-84.4688174",
+        "timezone": "America/New_York"
+    },
+    "Columbia Heights": {
+        "lat": "45.0460458",
+        "lon": "-93.2517802",
+        "timezone": "America/Chicago"
+    },
+    "Connecticut Avenue": {
+        "lat": "34.9450872",
+        "lon": "-81.9038248",
+        "timezone": "America/New_York"
+    },
+    "K Street": {
+        "lat": "40.8068101",
+        "lon": "-73.8562143",
+        "timezone": "America/New_York"
+    },
+    "Karachi": {
+        "lat": "24.8546842",
+        "lon": "67.0207055",
+        "timezone": "Asia/Karachi"
+    },
+    "Katunayaka": {
+        "lat": "7.1754010",
+        "lon": "79.8922159",
+        "timezone": "Asia/Colombo"
+    },
+    "Austin": {
+        "lat": "30.2711286",
+        "lon": "-97.7436995",
+        "timezone": "America/Chicago"
+    },
+    "Kenner": {
+        "lat": "29.9942265",
+        "lon": "-90.2417806",
+        "timezone": "America/Chicago"
+    },
+    "Metairie": {
+        "lat": "30.0018547",
+        "lon": "-90.1767012",
+        "timezone": "America/Chicago"
+    },
+    "Kilarney Woods": {
+        "lat": "35.7581096",
+        "lon": "-78.8228431",
+        "timezone": "America/New_York"
+    },
+    "Financial District": {
+        "lat": "43.6486382",
+        "lon": "-79.3802817",
+        "timezone": "America/Toronto"
+    },
+    "Jacksonville": {
+        "lat": "30.3262247",
+        "lon": "-81.6579179",
+        "timezone": "America/New_York"
+    },
+    "Orlando": {
+        "lat": "28.5421218",
+        "lon": "-81.3790450",
+        "timezone": "America/New_York"
+    },
+    "Lahore": {
+        "lat": "31.5656822",
+        "lon": "74.3141829",
+        "timezone": "Asia/Karachi"
+    },
+    "Lake Reams": {
+        "lat": "28.4410570",
+        "lon": "-81.5732659",
+        "timezone": "America/New_York"
+    },
+    "Lower Garden District": {
+        "lat": "29.9315027",
+        "lon": "-90.0721813",
+        "timezone": "America/Chicago"
+    },
+    "Arlington Park at Amberly": {
+        "lat": "35.8246178",
+        "lon": "-78.9067742",
+        "timezone": "America/New_York"
+    },
+    "Hazelwood": {
+        "lat": "38.7761446",
+        "lon": "-90.3715909",
+        "timezone": "America/Chicago"
+    },
+    "Stonewater": {
+        "lat": "35.8467725",
+        "lon": "-78.9071507",
+        "timezone": "America/New_York"
+    },
+    "Waverly Place": {
+        "lat": "40.7301501",
+        "lon": "-73.9944147",
+        "timezone": "America/New_York"
+    },
+    "Mandeville": {
+        "lat": "49.2206407",
+        "lon": "1.0116837",
+        "timezone": "Europe/Paris"
+    },
+    "Capitol One": {
+        "lat": "38.4170824",
+        "lon": "-122.7093204",
+        "timezone": "America/Los_Angeles"
+    },
+    "Asheville": {
+        "lat": "35.5953630",
+        "lon": "-82.5508407",
+        "timezone": "America/New_York"
+    },
+    "Newark": {
+        "lat": "40.7356570",
+        "lon": "-74.1723667",
+        "timezone": "America/New_York"
+    },
+    "Palo Alto": {
+        "lat": "37.4443293",
+        "lon": "-122.1598465",
+        "timezone": "America/Los_Angeles"
+    },
+    "Fairmont": {
+        "lat": "39.4848980",
+        "lon": "-80.1426539",
+        "timezone": "America/New_York"
+    },
+    "Arabi": {
+        "lat": "22.3742506",
+        "lon": "49.4770891",
+        "timezone": "Asia/Riyadh"
+    },
+    "Briar Meadow": {
+        "lat": "29.6497680",
+        "lon": "-98.1787045",
+        "timezone": "America/Chicago"
+    },
+    "Flatiron District": {
+        "lat": "40.7410722",
+        "lon": "-73.9896534",
+        "timezone": "America/New_York"
+    },
+    "Hell's Kitchen": {
+        "lat": "40.7644228",
+        "lon": "-73.9923918",
+        "timezone": "America/New_York"
+    },
+    "Midtown East": {
+        "lat": "35.8213387",
+        "lon": "-78.6208342",
+        "timezone": "America/New_York"
+    },
+    "Washington Avenue": {
+        "lat": "42.5196369",
+        "lon": "-93.2707343",
+        "timezone": "America/Chicago"
+    },
+    "Wake Co.": {
+        "lat": "35.7979355",
+        "lon": "-78.6118311",
+        "timezone": "America/New_York"
+    },
+    "Elmhurst": {
+        "lat": "41.8994745",
+        "lon": "-87.9403418",
+        "timezone": "America/Chicago"
+    },
+    "Jamaica": {
+        "lat": "18.1850507",
+        "lon": "-77.3947693",
+        "timezone": "America/Jamaica"
+    },
+    "Sunnyvale": {
+        "lat": "37.3688301",
+        "lon": "-122.0363490",
+        "timezone": "America/Los_Angeles"
+    },
+    "East Harlem": {
+        "lat": "40.7947222",
+        "lon": "-73.9425000",
+        "timezone": "America/New_York"
+    },
+    "West End": {
+        "lat": "51.5128988",
+        "lon": "-0.1255974",
+        "timezone": "Europe/London"
+    },
+    "West Palm Beach": {
+        "lat": "26.7153640",
+        "lon": "-80.0532942",
+        "timezone": "America/New_York"
+    },
+    "Tanglewood": {
+        "lat": "42.3490103",
+        "lon": "-73.3072289",
+        "timezone": "America/New_York"
+    },
+    "Parkwood": {
+        "lat": "36.9311685",
+        "lon": "-120.0518159",
+        "timezone": "America/Los_Angeles"
+    },
+    "Pontchartrain Shores": {
+        "lat": "30.0207582",
+        "lon": "-90.1945200",
+        "timezone": "America/Chicago"
+    },
+    "Ingleside": {
+        "lat": "27.8766150",
+        "lon": "-97.2098831",
+        "timezone": "America/Chicago"
+    },
+    "Northwoods": {
+        "lat": "38.7042177",
+        "lon": "-90.2834467",
+        "timezone": "America/Chicago"
+    },
+    "Seattle": {
+        "lat": "47.6038321",
+        "lon": "-122.3300620",
+        "timezone": "America/Los_Angeles"
+    },
+    "Sky Lake": {
+        "lat": "28.4617298",
+        "lon": "-81.3910535",
+        "timezone": "America/New_York"
+    },
+    "Bellevue": {
+        "lat": "47.6144219",
+        "lon": "-122.1923370",
+        "timezone": "America/Los_Angeles"
+    },
+    "Sand Lake Commons": {
+        "lat": "28.4295896",
+        "lon": "-81.4770976",
+        "timezone": "America/New_York"
+    },
+    "Rose Hill": {
+        "lat": "41.3218333",
+        "lon": "-92.4622237",
+        "timezone": "America/Chicago"
+    },
+    "Tenderloin": {
+        "lat": "37.7842493",
+        "lon": "-122.4139933",
+        "timezone": "America/Los_Angeles"
+    },
+    "North Berkeley Hills": {
+        "lat": "40.5255125",
+        "lon": "-80.0071721",
+        "timezone": "America/New_York"
+    },
+    "South Berkeley": {
+        "lat": "37.8577350",
+        "lon": "-122.2728232",
+        "timezone": "America/Los_Angeles"
+    },
+    "Lakeview": {
+        "lat": "33.8269305",
+        "lon": "-117.1258269",
+        "timezone": "America/Los_Angeles"
+    },
+    "Marigny": {
+        "lat": "48.6633200",
+        "lon": "3.8663200",
+        "timezone": "Europe/Paris"
+    },
+    "Coxville": {
+        "lat": "39.6519831",
+        "lon": "-87.2944610",
+        "timezone": "America/Indiana/Indianapolis"
+    },
+    "Georgian Acres": {
+        "lat": "30.3500963",
+        "lon": "-97.7017559",
+        "timezone": "America/Chicago"
+    },
+    "Hayesville": {
+        "lat": "41.2640523",
+        "lon": "-92.2491537",
+        "timezone": "America/Chicago"
+    },
+    "Soho": {
+        "lat": "51.5140654",
+        "lon": "-0.1350494",
+        "timezone": "Europe/London"
+    },
+    "Medical Centre": {
+        "lat": "4.3352639",
+        "lon": "101.1339419",
+        "timezone": "Asia/Kuala_Lumpur"
+    },
+    "Nugegoda": {
+        "lat": "6.8699688",
+        "lon": "79.8882835",
+        "timezone": "Asia/Colombo"
+    },
+    "Eastgate": {
+        "lat": "-26.1799350",
+        "lon": "28.1166360",
+        "timezone": "Africa/Johannesburg"
+    },
+    "Arlington": {
+        "lat": "32.7355816",
+        "lon": "-97.1071186",
+        "timezone": "America/Chicago"
+    },
+    "Convention Center District": {
+        "lat": "37.3301801",
+        "lon": "-121.8897839",
+        "timezone": "America/Los_Angeles"
+    },
+    "East Austin": {
+        "lat": "30.2745499",
+        "lon": "-97.7164851",
+        "timezone": "America/Chicago"
+    },
+    "Weston": {
+        "lat": "51.3471927",
+        "lon": "-2.9778916",
+        "timezone": "Europe/London"
+    },
+    "Lexington Park at Amberly": {
+        "lat": "35.8223428",
+        "lon": "-78.9153343",
+        "timezone": "America/New_York"
+    },
+    "Preston": {
+        "lat": "53.7593363",
+        "lon": "-2.6992717",
+        "timezone": "Europe/London"
+    },
+    "Burtrose": {
+        "lat": "35.7733737",
+        "lon": "-78.7863559",
+        "timezone": "America/New_York"
+    },
+    "Krendle Woods": {
+        "lat": "35.7858069",
+        "lon": "-78.7845791",
+        "timezone": "America/New_York"
+    },
+    "Lake Wellingborough": {
+        "lat": "35.7493031",
+        "lon": "-78.7636698",
+        "timezone": "America/New_York"
+    },
+    "Parkway": {
+        "lat": "38.3381069",
+        "lon": "-90.9698618",
+        "timezone": "America/Chicago"
+    },
+    "Summerwinds": {
+        "lat": "35.8710741",
+        "lon": "-78.7033534",
+        "timezone": "America/New_York"
+    },
+    "Wayne Ridge": {
+        "lat": "-26.1072422",
+        "lon": "27.9444699",
+        "timezone": "Africa/Johannesburg"
+    }
+}
