@@ -21,5 +21,6 @@
 
 
 ### Project Leads 
-[Kenny Li](kennyl@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kennylimich/)
+[Kenny Li](kennyl@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kennylimich/)  
+
 [Angela Zhou](canzhou@umich.edu)
