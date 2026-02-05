@@ -1,4 +1,4 @@
-## MDST Uber Data Analysis Project, Winter 2026.
+# MDST Uber Data Analysis Project, Winter 2026.
 
 ### UPCOMING WEEK'S ABSENCE FORM: [2/8](https://docs.google.com/forms/d/e/1FAIpQLSeS8Z-FHo5bordrc3yUvkSakoSjiuIwzRXo9RVsQX7OtPt6Og/viewform?usp=dialog)
 
@@ -21,7 +21,4 @@
 
 
 Project Leads: [Kenny Li](kennyl@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kennylimich/)
-![Kenny Li](https://i.ibb.co/6Rr1nCFQ/me.jpg)
-
 [Angela Zhou](canzhou@umich.edu)
-![Angela Zhou](https://i.ibb.co/hFMYpRfY/bob.jpg)
