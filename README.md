@@ -1,1 +1,27 @@
-# This is the GitHub Repo for MDST's Uber Data Analysis Project, Winter 2026.
+## MDST Uber Data Analysis Project, Winter 2026.
+
+### UPCOMING WEEK'S ABSENCE FORM: [2/8](https://docs.google.com/forms/d/e/1FAIpQLSeS8Z-FHo5bordrc3yUvkSakoSjiuIwzRXo9RVsQX7OtPt6Og/viewform?usp=dialog)
+
+
+| **Week**       | **Slides**                                                                                                           | **Topics**                         | **Links**                                                                                                                                                                              |
+|----------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 [1/25]       | [Presentation](https://docs.google.com/presentation/d/13nBL5rJUn_2Y6aaaoerqnMQWc7Oh1Ody5VTRxYbdMOo/edit?usp=sharing) | Intro + Pandas Review              | [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)                                                                                                                 |
+| 2 [2/1]        | [Presentation](https://docs.google.com/presentation/d/1eQcOFKFN7sv8qs7OURvo7WUS2RoRfUzTjhyUNpuf6n8/edit?usp=sharing) | Feature Engineering + Web Scraping | [Feature Engineering](https://www.geeksforgeeks.org/machine-learning/what-is-feature-engineering/), [Web Tutorial](https://realpython.com/python-web-scraping-practical-introduction/) |
+| 3 [2/8]        | -                                                                                                                    | EDA                                | -                                                                                                                                                                                      |
+| 4 [2/15]       | -                                                                                                                    | Statistical Analysis               | -                                                                                                                                                                                      |
+| 5 [2/22]       | -                                                                                                                    | ML + Mid-Expo                      | -                                                                                                                                                                                      |
+| (BREAK) [2/29] | -                                                                                                                    | -                                  | -                                                                                                                                                                                      |
+| (BREAK) [3/8]  | -                                                                                                                    | -                                  | -                                                                                                                                                                                      |
+| 6 [3/15]       | -                                                                                                                    | ML Cont.                           | -                                                                                                                                                                                      |
+| 7 [3/22]       | -                                                                                                                    | Mock Consutling Prep.              | -                                                                                                                                                                                      |
+| 8 [3/29]       | -                                                                                                                    | Presenting + Extra Topics          | -                                                                                                                                                                                      |
+| TBD            | -                                                                                                                    | -                                  | -                                                                                                                                                                                      |
+| TBD            | -                                                                                                                    | -                                  | -                                                                                                                                                                                      |
+
+
+
+Project Leads: [Kenny Li](kennyl@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kennylimich/)
+![Kenny Li](https://i.ibb.co/6Rr1nCFQ/me.jpg)
+
+[Angela Zhou](canzhou@umich.edu)
+![Angela Zhou](https://i.ibb.co/hFMYpRfY/bob.jpg)
