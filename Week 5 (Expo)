@@ -1,0 +1,141 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOh9km0IR64I2wjZrecr5SH",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/MichiganDataScienceTeam/W26-Uber-Data-Analysis/blob/main/Week%205%20(Expo)\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "As always, import relevant libraries (we already provided one!)"
+      ],
+      "metadata": {
+        "id": "HL5U4qeKrHqz"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from statsmodels.tsa.holtwinters import SimpleExpSmoothing"
+      ],
+      "metadata": {
+        "id": "7YclSw_0rN_T"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "1. Create Hypothetical Uber Business Demand Data"
+      ],
+      "metadata": {
+        "id": "X6KzV_FVrRD3"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "np.random.seed(42)\n",
+        "dates = pd.date_range(start='2016-01-01', end='2016-12-31', freq='D')\n",
+        "# Simulate a baseline of ~18 rides a day, with random daily fluctuations, and force every value to stay between 5 and 40\n",
+        "# HINT: Generate from a normal distribution (np.random.normal)"
+      ],
+      "metadata": {
+        "id": "Tsopxk7brU1i"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        " 2. Train/Test Split (Cutoff at Nov 1): Create daily demand, train, and test variables"
+      ],
+      "metadata": {
+        "id": "_D3_R0Pfr2Vk"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "vgP-YL8wsDtJ"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "3. Fit the Model and Forecast\n",
+        "(Use SimpleExpSmoothing and use smoothing_level parameter, which dictates how much weight to give recent vs older data)"
+      ],
+      "metadata": {
+        "id": "H-xMPON3sD5Q"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "oS3jq3qVsfQd"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "4. Visualizing the results:"
+      ],
+      "metadata": {
+        "id": "Ukf72ZZQsfbD"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "plt.figure(figsize=(12, 5))\n",
+        "plt.plot(train.index, train, label='Train (Past Data)', color='steelblue', alpha=0.8)\n",
+        "plt.plot(test.index, test, label='Test (Actual Future)', color='darkorange', alpha=0.8)\n",
+        "plt.plot(test.index, predictions, label='Forecast (Predicted Future)', color='red', linewidth=3, linestyle='--')\n",
+        "\n",
+        "# Add a vertical line to show where the forecast begins\n",
+        "plt.axvline(TODO, color='black', linestyle=':', label='Forecast Start')\n",
+        "\n",
+        "plt.title('Hypothetical Uber Business Demand: Actual vs Forecast')\n",
+        "plt.ylabel('Number of Rides')\n",
+        "plt.legend()\n",
+        "plt.show()"
+      ],
+      "metadata": {
+        "id": "X7RFvPQpsj1j"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
