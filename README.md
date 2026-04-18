@@ -1,10 +1,11 @@
 # MDST Uber Data Analysis Project, Winter 2026.
 
+### Project Leads 
+[Kenny Li](mailto:kennyl@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kennylimich/)  
+
+[Angela Zhou](mailto:canzhou@umich.edu) | [LinkedIn](https://www.linkedin.com/in/can-zhou-8637b5345/)
+
 # "Given the time and day, how many drivers should Uber expect to need and how confident are we in that recommendation?”
-
-
-### UPCOMING WEEK'S ABSENCE FORM: [April 12](https://forms.gle/F4NzZ2fcRbf8YrCW9), due Friday, April 10 11:59PM
-### Anonymous Feedback Form: [Form](https://docs.google.com/forms/d/e/1FAIpQLSe9PciT9Do9I0Y9HpHY8LLTs9yiMFSmrZHs9jRuY2mtcTdoRA/viewform?usp=sharing&ouid=110134560003786200969)
 
 
 | **Week**       | **Slides**                                                                                                           | **Topics**                         | **Links**                                                                                                                                                                              |
@@ -21,10 +22,3 @@
 | 8 [3/29]       | [Slides](https://docs.google.com/presentation/d/1rp_3kCztqNSdTEAjCvIILktTuUtOnuvo4Iy9kzbJ7uY/edit?usp=sharing)                                                                                                                    | Mock Consulting Prep        | [Template](https://docs.google.com/presentation/d/1UM8xs_KPerkvCeDjh2whCAAU9KMOrgTi1jevtxwJrqg/edit?usp=sharing)                                                                                                                                                                                      |
 | 9 [N/A]            | -                                                                                                                    | Presentations + Special Topics                                  | -                                                                                                                                                                                      |
 | 10 [4/10]           | -                                                                                                                    | -                                  | -                                                                                                                                                                                      |
-
-
-
-### Project Leads 
-[Kenny Li](mailto:kennyl@umich.edu) | [LinkedIn](https://www.linkedin.com/in/kennylimich/)  
-
-[Angela Zhou](mailto:canzhou@umich.edu) | [LinkedIn](https://www.linkedin.com/in/can-zhou-8637b5345/)
