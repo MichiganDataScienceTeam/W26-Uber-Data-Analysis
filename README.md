@@ -5,6 +5,11 @@
 
 [Angela Zhou](mailto:canzhou@umich.edu) | [LinkedIn](https://www.linkedin.com/in/can-zhou-8637b5345/)
 
+### Expos
+[Mid-Semester Expo](https://docs.google.com/presentation/d/1p00YlxnCzE182EwSk1Yhou4Jy-UI-kyZHTmZcVKKhP4/edit?usp=sharing)
+[Final Expo](https://docs.google.com/presentation/d/1sudwvByI6_nsRQku5jaewXgNDv-tR8t8vBsk3EThogM/edit?usp=sharing)
+
+
 # "Given the time and day, how many drivers should Uber expect to need and how confident are we in that recommendation?”
 
 
